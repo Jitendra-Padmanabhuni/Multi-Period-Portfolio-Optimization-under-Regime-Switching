@@ -1,0 +1,1 @@
+Formulated a multi-period portfolio optimization framework as a Markov Decision Process (MDP) with CRRA utility, incorporating regime switching and transaction costs. Integrated recurrent neural networks with MDP optimization to model no-trade zones, using Hidden Markov Models for regime inference and enhancing trading efficiency.
